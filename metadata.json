@@ -1,0 +1,8 @@
+{
+  "name": "AmarWifi Hotspot & Captive Portal",
+  "description": "Local Wi-Fi captive portal and hotspot admin dashboard in Bangladesh with bKash/Nagad verification, real-time approval, and device access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
