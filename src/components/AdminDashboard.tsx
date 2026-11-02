@@ -386,7 +386,7 @@ export const AdminDashboard: React.FC<AdminDashboardProps> = ({
             <span className="text-xs font-bold font-mono text-slate-500">BDT</span>
           </div>
           <div className="text-2xl font-bold font-mono text-slate-900 mt-2 tabular-nums">
-            唰硔stats.totalRevenue}
+            <span>{stats.totalRevenue}</span>
           </div>
           <p className="text-[11px] text-slate-500 mt-0.5">From bKash & Nagad</p>
         </div>
