@@ -546,7 +546,7 @@ export const AdminDashboard: React.FC<AdminDashboardProps> = ({
                             }`}
                           >
                             <span>{req.method}</span>
-                            <span className="font-mono">唰硔req.amount}</span>
+                            <span className="font-mono">{req.amount}</span>
                           </span>
 
                           {/* Status */}
